@@ -1,4 +1,4 @@
-# Hi there. I'm Andry ??
+# Hi there. I'm Andry
 
 I am a self-taught programmer with an interest in data & software engineering
 
