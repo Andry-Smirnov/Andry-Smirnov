@@ -16,5 +16,8 @@ I am a self-taught programmer with an interest in data & software engineering
 ## GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andry-Smirnov&show_icons=true&theme=tokyonight" width="400" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andry-Smirnov&show_icons=true&theme=gruvbox_light" width="400" height="150"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=Andry-Smirnov&show_icons=true&theme=](https://github-readme-stats.vercel.app/api/top-langs/?username=Andry-Smirnov&langs_count=5&theme=)gruvbox_light" width="400" height="150"/>
 </a>
