@@ -16,8 +16,6 @@ I am a self-taught programmer with an interest in data & software engineering
 ## GitHub Stats
 
 [![CyberSecurityUP GitHub stats](https://github-readme-stats.vercel.app/api?username=Andry-Smirnov&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Andry-Smirnov/github-readme-stats)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Andry-Smirnov&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true)
   
 <!--
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Andry-Smirnov&theme=gruvbox_light&hide_border=true&fire=red&sideNums=red)
