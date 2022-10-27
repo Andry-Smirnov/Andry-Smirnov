@@ -1,6 +1,6 @@
 # Hi there. I'm Andry
 
-I am a self-taught programmer with an interest in data & software engineering
+I am a programmer with an interest in data & software engineering
 
 ## Tech
 
