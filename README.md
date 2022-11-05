@@ -24,3 +24,5 @@ I am a programmer with an interest in data & software engineering
 [![trophy](https://github-profile-trophy.vercel.app/?username=Andry-Smirnov&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 -->
+
+![metro](images/metro-coder.jpg "metro")
