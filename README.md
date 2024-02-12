@@ -4,7 +4,8 @@ I am a programmer with an interest in data & software engineering
 
 ## Tech
 
-Delphi/Pascal Lazarus/Free Pascal
+![Delphi](https://img.shields.io/badge/Delphi-red?style=for-the-badge&logo=delphi)
+![Lazarus/Free pascal](https://img.shields.io/badge/Lazarus/Free%20Pascal-gray?style=for-the-badge&logo=lazarus)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
